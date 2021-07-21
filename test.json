@@ -1,0 +1,74 @@
+{
+  "BuildMachineOSBuild" : "19H524",
+  "CFBundleDevelopmentRegion" : "en_US",
+  "CFBundleDisplayName" : "Kaboodle",
+  "CFBundleExecutable" : "Kaboodle",
+  "CFBundleIcons" : {
+    "CFBundlePrimaryIcon" : {
+      "CFBundleIconFiles" : [
+        "AppIcon60x60"
+      ],
+      "CFBundleIconName" : "AppIcon"
+    }
+  },
+  "CFBundleIcons~ipad" : {
+    "CFBundlePrimaryIcon" : {
+      "CFBundleIconFiles" : [
+        "AppIcon60x60",
+        "AppIcon76x76"
+      ],
+      "CFBundleIconName" : "AppIcon"
+    }
+  },
+  "CFBundleIdentifier" : "pet.kaboodle.app",
+  "CFBundleInfoDictionaryVersion" : "6.0",
+  "CFBundleName" : "Kaboodle",
+  "CFBundlePackageType" : "APPL",
+  "CFBundleShortVersionString" : "0.1.4",
+  "CFBundleSignature" : "????",
+  "CFBundleSupportedPlatforms" : [
+    "iPhoneOS"
+  ],
+  "CFBundleVersion" : "0.1.4",
+  "DTCompiler" : "com.apple.compilers.llvm.clang.1_0",
+  "DTPlatformBuild" : "18D46",
+  "DTPlatformName" : "iphoneos",
+  "DTPlatformVersion" : "14.4",
+  "DTSDKBuild" : "18D46",
+  "DTSDKName" : "iphoneos14.4",
+  "DTXcode" : "1240",
+  "DTXcodeBuild" : "12D4e",
+  "LSRequiresIPhoneOS" : true,
+  "MinimumOSVersion" : "11.0",
+  "NSAppTransportSecurity" : {
+    "NSAllowsArbitraryLoads" : true
+  },
+  "NSCameraUsageDescription" : "We use camera to take instant pictures and share it with your connections on Kaboodle",
+  "NSLocationWhenInUseUsageDescription" : "We use your location for finding nearby Play Date, hotels and services as well as nearest pet emergency services.",
+  "NSMainNibFile~ipad" : "",
+  "NSPhotoLibraryAddUsageDescription" : "This app requires photo library access to function properly.",
+  "NSPhotoLibraryUsageDescription" : "This app requires photo library access to function properly.",
+  "UIBackgroundModes" : [
+    "remote-notification"
+  ],
+  "UIDeviceFamily" : [
+    1,
+    2
+  ],
+  "UIInterfaceOrientation" : [
+    "UIInterfaceOrientationPortrait"
+  ],
+  "UILaunchStoryboardName" : "CDVLaunchScreen",
+  "UIRequiredDeviceCapabilities" : [
+    "arm64"
+  ],
+  "UIRequiresFullScreen" : true,
+  "UISupportedInterfaceOrientations" : [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationPortraitUpsideDown"
+  ],
+  "UISupportedInterfaceOrientations~ipad" : [
+    "UIInterfaceOrientationPortrait",
+    "UIInterfaceOrientationPortraitUpsideDown"
+  ]
+}
